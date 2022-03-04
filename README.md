@@ -1,6 +1,6 @@
 #Fotomatic
 > CodeCademy's Challenge Project Excursion.
-> Live:
+> Live: https://aromero18020.github.io/Fotomatic/
 
 ## Table of Contents
 * [General Info](#general-information)
